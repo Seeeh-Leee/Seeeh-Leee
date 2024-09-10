@@ -5,7 +5,7 @@
 **Contact**  
 email - lsh49516333@gmail.com <br>
 github - https://github.com/Seeeh-Leee <br>
-naver blog - https://blog.naver.com/cocoder_ <br>
+naver blog - [https://blog.naver.com/cocoder_](https://blog.naver.com/cocoder_) <br>
 velog - https://velog.io/@cocoder123/posts <br>
 
 **About Me**
