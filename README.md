@@ -1,6 +1,4 @@
-## 포트폴리오
-
-## 이세현(Sehyeon Lee)
+## 이세현(Sehyeon Lee) 포트폴리오
 
 #### Network Developer 
 
