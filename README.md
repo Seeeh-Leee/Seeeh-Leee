@@ -3,10 +3,10 @@
 #### Network Developer 
 
 **Contact**  
-email - lsh49516333@gmail.com
-github - https://github.com/Seeeh-Leee
-naver blog - https://blog.naver.com/cocoder_
-velog - https://velog.io/@cocoder123/posts
+email - lsh49516333@gmail.com <br>
+github - https://github.com/Seeeh-Leee <br>
+naver blog - https://blog.naver.com/cocoder_ <br>
+velog - https://velog.io/@cocoder123/posts <br>
 
 **About Me**
 > 오늘보다 더 나은 내일의 개발자
@@ -17,11 +17,9 @@ velog - https://velog.io/@cocoder123/posts
 # **Project Abstract**
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2022.04.01 – 2023.12.14 | 파운틴 코드 기반 피어 투 피어 파일 공유 프로그램 | FEC기술의 한 종류인 Fountain Code를 P2P 파일 공유에 활용한 블록체인 블록 전송, 파일 공유 프로그램. 
-<br> 등록번호 C-2023-059968|
+| 2022.04.01 – 2023.12.14 | 파운틴 코드 기반 피어 투 피어 파일 공유 프로그램 | FEC기술의 한 종류인 Fountain Code를 P2P 파일 공유에 활용한 블록체인 블록 전송, 파일 공유 프로그램. 등록번호 C-2023-059968|
 | 2022.06.01 - 2023.06.31 | 블록체인을 위한 devp2p 기반의 저지연 블록 전송 프로토콜 | FEC기반 블록 전송 기술과 QUIC 프로토콜을 이더리움에 적용한 프로토콜 개발. |
-| 2023.03.01 - 2023.06.31 | 스케치 퀴즈 | 2인 1조로 진행한 프로젝트. C++, Boost Asio, OpenCV를 활용하여 '스케치퀴즈' 게임을 PC로 구현. 사용자간 실시간 네트워크 통신과 그림 데이터 처리. <br> 
-[스케치퀴즈](https://github.com/SuhyunRim118/SketchQuiz)|
+| 2023.03.01 - 2023.06.31 | 스케치 퀴즈 | 2인 1조로 진행한 프로젝트. C++, Boost Asio, OpenCV를 활용하여 '스케치퀴즈' 게임을 PC로 구현. 사용자간 실시간 네트워크 통신과 그림 데이터 처리. [스케치퀴즈](https://github.com/SuhyunRim118/SketchQuiz)|
 | 2019.11.21 - 2019.11.22 | FingerPrintApp | 폴란드 AMU에서 Mobile Security 수업에서 진행한 프로젝트. 지문인식을 적용해 보안을 강화한 노트 작성 앱. |
 | 2023.01.26 - 2023.01.28 | FAT32 파일시스템 분석기 | 파일 시스템을 주제로 저수준의 시스템 구성요소를 분석하고 이미지 포렌식을 실습. |
 
